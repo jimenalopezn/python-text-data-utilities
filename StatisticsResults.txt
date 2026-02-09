@@ -1,0 +1,930 @@
+Archivo: TC1.txt
+Media: 242.32
+Mediana: 239.5
+Moda: N/A
+Varianza Poblacional: 21099.917599999997
+Desviación Estándar: 145.25810683056557
+Tiempo de ejecución: 0.0006 segundos
+------------------------------
+Archivo: TC2.txt
+Media: 250.7840161861406
+Mediana: 247.0
+Moda: 230.0
+Varianza Poblacional: 20785.369132479253
+Desviación Estándar: 144.17131868884064
+Tiempo de ejecución: 0.0026 segundos
+------------------------------
+Archivo: TC3.txt
+Media: 249.77621989860583
+Mediana: 249.0
+Moda: 94.0
+Varianza Poblacional: 21117.277473163307
+Desviación Estándar: 145.3178498091797
+Tiempo de ejecución: 0.0164 segundos
+------------------------------
+Archivo: TC4.txt
+Media: 149.00267347908746
+Mediana: 147.75
+Moda: 123.75
+Varianza Poblacional: 17007.92084301886
+Desviación Estándar: 130.41441961308902
+Tiempo de ejecución: 0.0161 segundos
+------------------------------
+Archivo: TC5.txt
+Media: 241.49511400651465
+Mediana: 241.0
+Moda: N/A
+Varianza Poblacional: 21160.02196309775
+Desviación Estándar: 145.46484786056646
+Tiempo de ejecución: 0.0006 segundos
+------------------------------
+Archivo: TC6.txt
+Media: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: N/A
+Varianza Poblacional: 1.1530904699530652e+40
+Desviación Estándar: 1.0738205017381002e+20
+Tiempo de ejecución: 0.0048 segundos
+------------------------------
+Archivo: TC7.txt
+Media: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: N/A
+Varianza Poblacional: 2.091079314713653e+40
+Desviación Estándar: 1.446056470098472e+20
+Tiempo de ejecución: 0.0200 segundos
+------------------------------
+Archivo: TC1.txt
+Media: 242.32
+Mediana: 239.5
+Moda: N/A
+Varianza Poblacional: 21099.917599999997
+Desviación Estándar: 145.25810683056557
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+Archivo: TC2.txt
+Media: 250.7840161861406
+Mediana: 247.0
+Moda: 230.0
+Varianza Poblacional: 20785.369132479253
+Desviación Estándar: 144.17131868884064
+Tiempo de ejecución: 0.0017 segundos
+------------------------------
+Archivo: TC3.txt
+Media: 249.77621989860583
+Mediana: 249.0
+Moda: 94.0
+Varianza Poblacional: 21117.277473163307
+Desviación Estándar: 145.3178498091797
+Tiempo de ejecución: 0.0109 segundos
+------------------------------
+Archivo: TC4.txt
+Media: 149.00267347908746
+Mediana: 147.75
+Moda: 123.75
+Varianza Poblacional: 17007.92084301886
+Desviación Estándar: 130.41441961308902
+Tiempo de ejecución: 0.0098 segundos
+------------------------------
+Archivo: TC5.txt
+Media: 241.49511400651465
+Mediana: 241.0
+Moda: N/A
+Varianza Poblacional: 21160.02196309775
+Desviación Estándar: 145.46484786056646
+Tiempo de ejecución: 0.0005 segundos
+------------------------------
+Archivo: TC6.txt
+Media: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: N/A
+Varianza Poblacional: 1.1530904699530652e+40
+Desviación Estándar: 1.0738205017381002e+20
+Tiempo de ejecución: 0.0029 segundos
+------------------------------
+Archivo: TC7.txt
+Media: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: N/A
+Varianza Poblacional: 2.091079314713653e+40
+Desviación Estándar: 1.446056470098472e+20
+Tiempo de ejecución: 0.0121 segundos
+------------------------------
+Archivo: TC1.txt
+Media: 242.32
+Mediana: 239.5
+Moda: N/A
+Varianza Poblacional: 21099.917599999997
+Desviación Estándar: 145.25810683056557
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+FILE: TC2.txt
+COUNT: 1977
+MEAN: 250.7840161861406
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.17131868884064
+VARIANCE: 20785.369132479253
+Execution time: 0.0015 seconds
+------------------------------
+FILE: TC3.txt
+COUNT: 12624
+MEAN: 249.77621989860583
+MEDIAN: 249.0
+MODE: 94.0
+SD: 145.3178498091797
+VARIANCE: 21117.277473163307
+Execution time: 0.0093 seconds
+------------------------------
+FILE: TC4.txt
+COUNT: 12624
+MEAN: 149.00267347908746
+MEDIAN: 147.75
+MODE: 123.75
+SD: 130.41441961308902
+VARIANCE: 17007.92084301886
+Execution time: 0.0095 seconds
+------------------------------
+FILE: TC5.txt
+COUNT: 307
+MEAN: 241.49511400651465
+MEDIAN: 241.0
+MODE: #N/A
+SD: 145.46484786056646
+VARIANCE: 21160.02196309775
+Execution time: 0.0007 seconds
+------------------------------
+FILE: TC6.txt
+COUNT: 3000
+MEAN: 1.8790659927977443e+20
+MEDIAN: 1.88008049965543e+20
+MODE: #N/A
+SD: 1.0738205017381002e+20
+VARIANCE: 1.1530904699530652e+40
+Execution time: 0.0029 seconds
+------------------------------
+FILE: TC7.txt
+COUNT: 12767
+MEAN: 2.4746739549971625e+20
+MEDIAN: 2.4664097307429e+20
+MODE: #N/A
+SD: 1.446056470098472e+20
+VARIANCE: 2.091079314713653e+40
+Execution time: 0.0122 seconds
+------------------------------
+TC: TC1.txt
+COUNT: 400
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393.0
+SD: 145.26
+VARIANCE: 21099.92
+Execution time: 0.0004s
+------------------------------
+TC: TC2.txt
+COUNT: 1977
+MEAN: 250.78
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.17
+VARIANCE: 20785.37
+Execution time: 0.0015s
+------------------------------
+TC: TC3.txt
+COUNT: 12624
+MEAN: 249.78
+MEDIAN: 249.0
+MODE: 94.0
+SD: 145.32
+VARIANCE: 21117.28
+Execution time: 0.0094s
+------------------------------
+TC: TC4.txt
+COUNT: 12624
+MEAN: 149.0
+MEDIAN: 147.75
+MODE: 123.75
+SD: 130.41
+VARIANCE: 17007.92
+Execution time: 0.0097s
+------------------------------
+TC: TC5.txt
+COUNT: 307
+MEAN: 241.5
+MEDIAN: 241.0
+MODE: 393.0
+SD: 145.46
+VARIANCE: 21160.02
+Execution time: 0.0007s
+------------------------------
+TC: TC6.txt
+COUNT: 3000
+MEAN: 1.8790659927977443e+20
+MEDIAN: 1.88008049965543e+20
+MODE: #N/A
+SD: 1.0738205017381002e+20
+VARIANCE: 1.1530904699530652e+40
+Execution time: 0.0049s
+------------------------------
+TC: TC7.txt
+COUNT: 12767
+MEAN: 2.4746739549971625e+20
+MEDIAN: 2.4664097307429e+20
+MODE: #N/A
+SD: 1.446056470098472e+20
+VARIANCE: 2.091079314713653e+40
+Execution time: 0.02s
+------------------------------
+TC: TC1.txt
+COUNT: 400
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393.0
+SD: 145.26
+VARIANCE: 21099.92
+Execution time: 0.0004s
+------------------------------
+TC: TC2.txt
+COUNT: 1977
+MEAN: 250.78
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.17
+VARIANCE: 20785.37
+Execution time: 0.0018s
+------------------------------
+TC: TC3.txt
+COUNT: 12624
+MEAN: 249.78
+MEDIAN: 249.0
+MODE: 94.0
+SD: 145.32
+VARIANCE: 21117.28
+Execution time: 0.0092s
+------------------------------
+TC: TC4.txt
+COUNT: 12624
+MEAN: 149.0
+MEDIAN: 147.75
+MODE: 123.75
+SD: 130.41
+VARIANCE: 17007.92
+Execution time: 0.0098s
+------------------------------
+TC: TC5.txt
+COUNT: 307
+MEAN: 241.5
+MEDIAN: 241.0
+MODE: 393.0
+SD: 145.46
+VARIANCE: 21160.02
+Execution time: 0.0005s
+------------------------------
+TC: TC6.txt
+COUNT: 3000
+MEAN: 1.8790659927977443e+20
+MEDIAN: 1.88008049965543e+20
+MODE: #N/A
+SD: 1.0738205017381002e+20
+VARIANCE: 1.1530904699530652e+40
+Execution time: 0.0027s
+------------------------------
+TC: TC7.txt
+COUNT: 12767
+MEAN: 2.4746739549971625e+20
+MEDIAN: 2.4664097307429e+20
+MODE: #N/A
+SD: 1.446056470098472e+20
+VARIANCE: 2.091079314713653e+40
+Execution time: 0.0127s
+------------------------------
+TC: TC1.txt
+COUNT: 400
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393.0
+SD: 145.26
+VARIANCE: 21099.92
+Execution time: 0.0028s
+------------------------------
+TC: TC2.txt
+COUNT: 1977
+MEAN: 250.78
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.17
+VARIANCE: 20785.37
+Execution time: 0.0053s
+------------------------------
+TC: TC3.txt
+COUNT: 12624
+MEAN: 249.78
+MEDIAN: 249.0
+MODE: 94.0
+SD: 145.32
+VARIANCE: 21117.28
+Execution time: 0.0164s
+------------------------------
+TC: TC4.txt
+COUNT: 12624
+MEAN: 149.0
+MEDIAN: 147.75
+MODE: 123.75
+SD: 130.41
+VARIANCE: 17007.92
+Execution time: 0.0627s
+------------------------------
+TC: TC5.txt
+COUNT: 307
+MEAN: 241.5
+MEDIAN: 241.0
+MODE: 393.0
+SD: 145.46
+VARIANCE: 21160.02
+Execution time: 0.0006s
+------------------------------
+TC: TC6.txt
+COUNT: 3000
+MEAN: 1.8790659927977443e+20
+MEDIAN: 1.88008049965543e+20
+MODE: #N/A
+SD: 1.0738205017381002e+20
+VARIANCE: 1.1530904699530652e+40
+Execution time: 0.012s
+------------------------------
+TC: TC7.txt
+COUNT: 12767
+MEAN: 2.4746739549971625e+20
+MEDIAN: 2.4664097307429e+20
+MODE: #N/A
+SD: 1.446056470098472e+20
+VARIANCE: 2.091079314713653e+40
+Execution time: 0.0524s
+------------------------------
+Archivo: TC1.txt
+Count: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación éstandar poblacional: 145.258107
+Varianza: 21099.9176
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+Archivo: TC2.txt
+Count: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación éstandar poblacional: 144.171319
+Varianza: 20785.3691
+Tiempo de ejecución: 0.0016 segundos
+------------------------------
+Archivo: TC3.txt
+Count: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación éstandar poblacional: 145.31785
+Varianza: 21117.2775
+Tiempo de ejecución: 0.0095 segundos
+------------------------------
+Archivo: TC4.txt
+Count: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación éstandar poblacional: 130.41442
+Varianza: 17007.9208
+Tiempo de ejecución: 0.0098 segundos
+------------------------------
+Archivo: TC5.txt
+Count: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación éstandar poblacional: 145.464848
+Varianza: 21160.022
+Tiempo de ejecución: 0.0005 segundos
+------------------------------
+Archivo: TC6.txt
+Count: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0029 segundos
+------------------------------
+Archivo: TC7.txt
+Count: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0122 segundos
+------------------------------
+Archivo: TC1.txt
+Conteo: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación éstandar poblacional: 145.258107
+Varianza: 21099.9176
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+Archivo: TC2.txt
+Conteo: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación éstandar poblacional: 144.171319
+Varianza: 20785.3691
+Tiempo de ejecución: 0.0016 segundos
+------------------------------
+Archivo: TC3.txt
+Conteo: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación éstandar poblacional: 145.31785
+Varianza: 21117.2775
+Tiempo de ejecución: 0.0094 segundos
+------------------------------
+Archivo: TC4.txt
+Conteo: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación éstandar poblacional: 130.41442
+Varianza: 17007.9208
+Tiempo de ejecución: 0.0098 segundos
+------------------------------
+Archivo: TC5.txt
+Conteo: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación éstandar poblacional: 145.464848
+Varianza: 21160.022
+Tiempo de ejecución: 0.0005 segundos
+------------------------------
+Archivo: TC6.txt
+Conteo: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0028 segundos
+------------------------------
+Archivo: TC7.txt
+Conteo: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0115 segundos
+------------------------------
+Archivo: TC1.txt
+Conteo: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación éstandar poblacional: 145.258107
+Varianza: 21099.9176
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+Archivo: TC2.txt
+Conteo: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación éstandar poblacional: 144.171319
+Varianza: 20785.3691
+Tiempo de ejecución: 0.0015 segundos
+------------------------------
+Archivo: TC3.txt
+Conteo: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación éstandar poblacional: 145.31785
+Varianza: 21117.2775
+Tiempo de ejecución: 0.0099 segundos
+------------------------------
+Archivo: TC4.txt
+Conteo: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación éstandar poblacional: 130.41442
+Varianza: 17007.9208
+Tiempo de ejecución: 0.0103 segundos
+------------------------------
+Archivo: TC5.txt
+Conteo: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación éstandar poblacional: 145.464848
+Varianza: 21160.022
+Tiempo de ejecución: 0.0005 segundos
+------------------------------
+Archivo: TC6.txt
+Conteo: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0029 segundos
+------------------------------
+Archivo: TC7.txt
+Conteo: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0143 segundos
+------------------------------
+Archivo: TC1.txt
+Conteo: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación éstandar poblacional: 145.258107
+Varianza: 21099.9176
+Tiempo de ejecución: 0.0021 segundos
+------------------------------
+Archivo: TC2.txt
+Conteo: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación éstandar poblacional: 144.171319
+Varianza: 20785.3691
+Tiempo de ejecución: 0.0016 segundos
+------------------------------
+Archivo: TC3.txt
+Conteo: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación éstandar poblacional: 145.31785
+Varianza: 21117.2775
+Tiempo de ejecución: 0.0095 segundos
+------------------------------
+Archivo: TC4.txt
+Conteo: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación éstandar poblacional: 130.41442
+Varianza: 17007.9208
+Tiempo de ejecución: 0.0102 segundos
+------------------------------
+Archivo: TC5.txt
+Conteo: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación éstandar poblacional: 145.464848
+Varianza: 21160.022
+Tiempo de ejecución: 0.0006 segundos
+------------------------------
+Archivo: TC6.txt
+Conteo: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0031 segundos
+------------------------------
+Archivo: TC7.txt
+Conteo: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0129 segundos
+------------------------------
+Archivo: TC1.txt
+Conteo: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación éstandar poblacional: 145.254665
+Varianza: 21098.9176
+Tiempo de ejecución: 0.0006 segundos
+------------------------------
+Archivo: TC2.txt
+Conteo: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación éstandar poblacional: 144.167851
+Varianza: 20784.3691
+Tiempo de ejecución: 0.0026 segundos
+------------------------------
+Archivo: TC3.txt
+Conteo: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación éstandar poblacional: 145.314409
+Varianza: 21116.2775
+Tiempo de ejecución: 0.0156 segundos
+------------------------------
+Archivo: TC4.txt
+Conteo: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación éstandar poblacional: 130.410586
+Varianza: 17006.9208
+Tiempo de ejecución: 0.0167 segundos
+------------------------------
+Archivo: TC5.txt
+Conteo: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación éstandar poblacional: 145.461411
+Varianza: 21159.022
+Tiempo de ejecución: 0.0006 segundos
+------------------------------
+Archivo: TC6.txt
+Conteo: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0047 segundos
+------------------------------
+Archivo: TC7.txt
+Conteo: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0192 segundos
+------------------------------
+Archivo: TC1.txt
+Conteo: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación éstandar poblacional: 145.254665
+Varianza: 21098.9176
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+Archivo: TC2.txt
+Conteo: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación éstandar poblacional: 144.167851
+Varianza: 20784.3691
+Tiempo de ejecución: 0.0015 segundos
+------------------------------
+Archivo: TC3.txt
+Conteo: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación éstandar poblacional: 145.314409
+Varianza: 21116.2775
+Tiempo de ejecución: 0.0094 segundos
+------------------------------
+Archivo: TC4.txt
+Conteo: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación éstandar poblacional: 130.410586
+Varianza: 17006.9208
+Tiempo de ejecución: 0.0098 segundos
+------------------------------
+Archivo: TC5.txt
+Conteo: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación éstandar poblacional: 145.461411
+Varianza: 21159.022
+Tiempo de ejecución: 0.0005 segundos
+------------------------------
+Archivo: TC6.txt
+Conteo: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0027 segundos
+------------------------------
+Archivo: TC7.txt
+Conteo: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación éstandar poblacional: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0117 segundos
+------------------------------
+FILE: TC1.txt
+COUNT: 400
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393.0
+SD: 145.258107
+VARIANCE: 21099.9176
+Execution time: 0.0007 seconds
+------------------------------
+FILE: TC2.txt
+COUNT: 1977
+MEAN: 250.78
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.171319
+VARIANCE: 20785.3691
+Execution time: 0.0025 seconds
+------------------------------
+FILE: TC3.txt
+COUNT: 12624
+MEAN: 249.78
+MEDIAN: 249.0
+MODE: 94.0
+SD: 145.31785
+VARIANCE: 21117.2775
+Execution time: 0.0160 seconds
+------------------------------
+FILE: TC4.txt
+COUNT: 12624
+MEAN: 149.0
+MEDIAN: 147.75
+MODE: 123.75
+SD: 130.41442
+VARIANCE: 17007.9208
+Execution time: 0.0173 seconds
+------------------------------
+FILE: TC5.txt
+COUNT: 307
+MEAN: 241.5
+MEDIAN: 241.0
+MODE: 393.0
+SD: 145.464848
+VARIANCE: 21160.022
+Execution time: 0.0006 seconds
+------------------------------
+FILE: TC6.txt
+COUNT: 3000
+MEAN: 1.8790659927977443e+20
+MEDIAN: 1.88008049965543e+20
+MODE: #N/A
+SD: 1.0738205017381002e+20
+VARIANCE: 1.1530904699530652e+40
+Execution time: 0.0047 seconds
+------------------------------
+FILE: TC7.txt
+COUNT: 12767
+MEAN: 2.4746739549971625e+20
+MEDIAN: 2.4664097307429e+20
+MODE: #N/A
+SD: 1.446056470098472e+20
+VARIANCE: 2.091079314713653e+40
+Execution time: 0.0191 seconds
+------------------------------
+FILE: TC1.txt
+COUNT: 400
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393.0
+SD: 145.254665
+VARIANCE: 21098.9176
+Execution time: 0.0005 seconds
+------------------------------
+FILE: TC2.txt
+COUNT: 1977
+MEAN: 250.78
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.167851
+VARIANCE: 20784.3691
+Execution time: 0.0015 seconds
+------------------------------
+FILE: TC3.txt
+COUNT: 12624
+MEAN: 249.78
+MEDIAN: 249.0
+MODE: 94.0
+SD: 145.314409
+VARIANCE: 21116.2775
+Execution time: 0.0094 seconds
+------------------------------
+FILE: TC4.txt
+COUNT: 12624
+MEAN: 149.0
+MEDIAN: 147.75
+MODE: 123.75
+SD: 130.410586
+VARIANCE: 17006.9208
+Execution time: 0.0096 seconds
+------------------------------
+FILE: TC5.txt
+COUNT: 307
+MEAN: 241.5
+MEDIAN: 241.0
+MODE: 393.0
+SD: 145.461411
+VARIANCE: 21159.022
+Execution time: 0.0005 seconds
+------------------------------
+FILE: TC6.txt
+COUNT: 3000
+MEAN: 1.8790659927977443e+20
+MEDIAN: 1.88008049965543e+20
+MODE: #N/A
+SD: 1.0738205017381002e+20
+VARIANCE: 1.1530904699530652e+40
+Execution time: 0.0028 seconds
+------------------------------
+FILE: TC7.txt
+COUNT: 12767
+MEAN: 2.4746739549971625e+20
+MEDIAN: 2.4664097307429e+20
+MODE: #N/A
+SD: 1.446056470098472e+20
+VARIANCE: 2.091079314713653e+40
+Execution time: 0.0134 seconds
+------------------------------
+Archivo: TC1.txt
+Conteo: 400
+Promedio: 242.32
+Mediana: 239.5
+Moda: 393.0
+Desviación estándar: 145.254665
+Varianza: 21098.9176
+Tiempo de ejecución: 0.0007 seconds
+------------------------------
+Archivo: TC2.txt
+Conteo: 1977
+Promedio: 250.78
+Mediana: 247.0
+Moda: 230.0
+Desviación estándar: 144.167851
+Varianza: 20784.3691
+Tiempo de ejecución: 0.0026 seconds
+------------------------------
+Archivo: TC3.txt
+Conteo: 12624
+Promedio: 249.78
+Mediana: 249.0
+Moda: 94.0
+Desviación estándar: 145.314409
+Varianza: 21116.2775
+Tiempo de ejecución: 0.0165 seconds
+------------------------------
+Archivo: TC4.txt
+Conteo: 12624
+Promedio: 149.0
+Mediana: 147.75
+Moda: 123.75
+Desviación estándar: 130.410586
+Varianza: 17006.9208
+Tiempo de ejecución: 0.0167 seconds
+------------------------------
+Archivo: TC5.txt
+Conteo: 307
+Promedio: 241.5
+Mediana: 241.0
+Moda: 393.0
+Desviación estándar: 145.461411
+Varianza: 21159.022
+Tiempo de ejecución: 0.0006 seconds
+------------------------------
+Archivo: TC6.txt
+Conteo: 3000
+Promedio: 1.8790659927977443e+20
+Mediana: 1.88008049965543e+20
+Moda: #N/A
+Desviación estándar: 1.0738205017381002e+20
+Varianza: 1.1530904699530652e+40
+Tiempo de ejecución: 0.0046 seconds
+------------------------------
+Archivo: TC7.txt
+Conteo: 12767
+Promedio: 2.4746739549971625e+20
+Mediana: 2.4664097307429e+20
+Moda: #N/A
+Desviación estándar: 1.446056470098472e+20
+Varianza: 2.091079314713653e+40
+Tiempo de ejecución: 0.0192 seconds
+------------------------------
